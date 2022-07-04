@@ -1,0 +1,2 @@
+# Experiencia_com_Cobaias
+O referido programa lê uma quantidade de casos de  teste digitados pelo usuário e em seguida três tipos de cobaias e a quantidade de cada tipo de cobaia, informando a partir destes dados, o total de cobaias utilizadas, o total de cada tipo de cobaia utilizada e o percentual de cada uma em relação ao total de cobaias utilizadas. O código fonte toma como exemplo os tipos de cobaia C ( coelho ), R ( rato ) e S ( sapo ). Este programa  é disponibilizado nas linguagens C, C++, Java e Python.
